@@ -1,0 +1,18 @@
+body
+{
+  padding: 10px;
+  margin: 40px;
+  font-size: 24px;
+  font-family: helvetica;
+  background-image: url(https://previews.123rf.com/images/nexusplexus/nexusplexus1803/nexusplexus180302794/97769507-abstract-background-image-with-space-planets-and-starry-sky-.jpg);
+  background-repeat: no-repeat;
+  background-size: auto;
+  color: white;
+}
+
+nav
+{
+  background-color: #31b5a8;
+  padding: 0px;
+  color: blue;
+}
